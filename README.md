@@ -10,3 +10,5 @@ Założenia projektu:
 - Między słowami równoległymi musi być odstęp jednej kratki
 - Tylko słowa ustawione względem siebie prostopadle mogą się przecinać
 - Kierunki słów: od lewej do prawej; od góry do dołu
+
+Plik SYOP - krzyżówka_Trim.mp4 zawiera nagranie przykładowego działania programu.
